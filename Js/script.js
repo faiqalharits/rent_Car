@@ -83,5 +83,7 @@ window.addEventListener('resize', () => {
   goToSlide(currentIndex);
 });
 
-// Initialize
 goToSlide(0);
+
+
+
